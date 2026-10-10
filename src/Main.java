@@ -150,7 +150,4 @@ public class Main {
         System.out.println("Obrigado volte sempre :) ");
 
     }
-        //25750222
-        //77808220
-        //21046635
 }
