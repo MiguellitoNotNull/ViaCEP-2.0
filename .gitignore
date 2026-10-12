@@ -28,3 +28,15 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Arquivos Java compilados
+*.class
+
+# Maven
+target/
+
+# Logs
+*.log
+
+# Arquivos do Windows
+Thumbs.db
