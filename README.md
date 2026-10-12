@@ -20,7 +20,7 @@ Aplicação de console desenvolvida em Java para consultar endereços por meio d
 - **API ViaCEP** — consulta de endereços.
 - **Git e GitHub** — versionamento e gerenciamento do projeto.
 
-## ⚙️ Como executar
+##  Como executar
 
 1. Clone este repositório:
 
