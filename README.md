@@ -46,6 +46,14 @@ Este projeto foi desenvolvido com o objetivo de praticar conceitos de Java, cons
 
 O ViaCEP 2.0 faz parte da minha jornada de aprendizado em **Backend Java**, buscando desenvolver habilidades práticas e construir projetos para meu portfólio.
 
+## O que aprendi com este projeto
+
+- Consumo de APIs utilizando Java.
+- Manipulação de JSON com Gson.
+- Validação de entradas do usuário.
+- Leitura e escrita de arquivos para armazenar o histórico de consultas.
+- Organização do código utilizando classes e métodos.
+
 ##  Autor
 
 Desenvolvido por **Miguel**.
